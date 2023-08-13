@@ -1,8 +1,2 @@
-<img width="1834" alt="Make your README" src="https://www.codewars.com/users/ilozur/badges/large">
-
-
-
-<!---
-ilozur/ilozur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img width="500" src="https://www.codewars.com/users/ilozur/badges/large">
+<img width="500" src="https://api.roadmap.sh/v1-badge/wide/646c7489cb6301e67f890f81?variant=dark"/>
